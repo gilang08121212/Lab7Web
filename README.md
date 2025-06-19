@@ -12,4 +12,4 @@ Setelah semua latihan selesai dan dokumentasi lengkap, saya commit hasil kerja s
 ![Image](https://github.com/user-attachments/assets/f5c4bbf7-898d-4fd6-bde1-74d389ce1ea4)
 
 PRAKTIKUM 2
-
+![Image](https://github.com/user-attachments/assets/7770100c-fc6d-4f62-8a2f-044e68e4a792)
