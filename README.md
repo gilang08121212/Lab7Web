@@ -10,3 +10,6 @@ Setelah semua latihan selesai dan dokumentasi lengkap, saya commit hasil kerja s
 ![Image](https://github.com/user-attachments/assets/86c3d566-faa4-40c8-ba48-a2c38d3c7aef)
 ![Image](https://github.com/user-attachments/assets/51d5cc77-b65c-47b7-bd2a-ef59760e9c95)
 ![Image](https://github.com/user-attachments/assets/f5c4bbf7-898d-4fd6-bde1-74d389ce1ea4)
+
+PRAKTIKUM 2
+
