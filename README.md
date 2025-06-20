@@ -17,6 +17,8 @@ Setelah semua latihan selesai dan dokumentasi lengkap, saya commit hasil kerja s
 ![image](https://github.com/user-attachments/assets/c3e0bf21-f992-4f3d-8628-02139c393d8e)
 ![image](https://github.com/user-attachments/assets/2a8bbf81-148b-47d7-850f-43d2799804cb)
 ![image](https://github.com/user-attachments/assets/e57d903f-c858-4b56-8cde-3f11be3963f7)
+![image](https://github.com/user-attachments/assets/7d04bf62-b70c-4867-beea-3c334c8447da)
+
 
 
 
