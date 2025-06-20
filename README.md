@@ -11,7 +11,9 @@ Setelah semua latihan selesai dan dokumentasi lengkap, saya commit hasil kerja s
 ![Image](https://github.com/user-attachments/assets/51d5cc77-b65c-47b7-bd2a-ef59760e9c95)
 ![Image](https://github.com/user-attachments/assets/f5c4bbf7-898d-4fd6-bde1-74d389ce1ea4)
 
-PRAKTIKUM 2
+-----------------------------------PRAKTIKUM 2------------------------------------------
 ![Image](https://github.com/user-attachments/assets/bdedabea-46b9-4a09-9dc6-049e28ca19b7)
 ![image](https://github.com/user-attachments/assets/e9001739-e98e-409e-8862-aef8fcaeb0a7)
+![image](https://github.com/user-attachments/assets/2a8bbf81-148b-47d7-850f-43d2799804cb)
+
 
