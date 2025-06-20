@@ -19,6 +19,7 @@ Mengajarkan cara membuat tampilan detail artikel yang dapat diakses melalui slug
 ![Image](https://github.com/user-attachments/assets/bdedabea-46b9-4a09-9dc6-049e28ca19b7)
 ![image](https://github.com/user-attachments/assets/c4941d15-2cdb-46af-abff-d795995857a8)
 ![image](https://github.com/user-attachments/assets/c3e0bf21-f992-4f3d-8628-02139c393d8e)
+Tampilan Admin: Dibuat tampilan admin_index.php yang menampilkan artikel dalam tabel dengan opsi aksi (ubah, hapus).
 ![image](https://github.com/user-attachments/assets/2a8bbf81-148b-47d7-850f-43d2799804cb)
 Tampilan Form Tambah, Tampilan untuk menambah dengan validasi inputan dan penyimpanan data menggunakan model.
 ![image](https://github.com/user-attachments/assets/e57d903f-c858-4b56-8cde-3f11be3963f7)
