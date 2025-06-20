@@ -12,6 +12,8 @@ Setelah semua latihan selesai dan dokumentasi lengkap, saya commit hasil kerja s
 ![Image](https://github.com/user-attachments/assets/f5c4bbf7-898d-4fd6-bde1-74d389ce1ea4)
 
 ------------------------------------------------------------------PRAKTIKUM 2----------------------------------------------------------------------------
+
+
 Memulai dengan praktikum CRUD (Create, Read, Update, Delete) menggunakan CodeIgniter 4. Pada halaman ini, fokusnya adalah pada pembuatan database dan tabel artikel yang memiliki beberapa kolom seperti judul, isi, slug, dan status. Juga mencakup pengaturan koneksi database melalui file .env.
 ![image](https://github.com/user-attachments/assets/20dfd2f5-1f32-47b7-b82f-a44e1f02d9e5)
 
