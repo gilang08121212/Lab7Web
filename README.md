@@ -12,7 +12,7 @@ Setelah semua latihan selesai dan dokumentasi lengkap, saya commit hasil kerja s
 
 
 
-------------------------------------------------------------------PRAKTIKUM 2----------------------------------------------------------------------------
+---------------------------------------------------------------PRAKTIKUM 2----------------------------------------------------------------------------
 
 
 Memulai dengan praktikum CRUD (Create, Read, Update, Delete) menggunakan CodeIgniter 4. Pada halaman ini, fokusnya adalah pada pembuatan database dan tabel artikel yang memiliki beberapa kolom seperti judul, isi, slug, dan status. Juga mencakup pengaturan koneksi database melalui file .env.
