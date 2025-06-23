@@ -10,6 +10,8 @@ Setelah semua latihan selesai dan dokumentasi lengkap, saya commit hasil kerja s
 ![Image](https://github.com/user-attachments/assets/51d5cc77-b65c-47b7-bd2a-ef59760e9c95)
 ![Image](https://github.com/user-attachments/assets/f5c4bbf7-898d-4fd6-bde1-74d389ce1ea4)
 
+
+
 ------------------------------------------------------------------PRAKTIKUM 2----------------------------------------------------------------------------
 
 
@@ -28,6 +30,16 @@ Tampilan Form Tambah, Tampilan untuk menambah dengan validasi inputan dan penyim
 ![image](https://github.com/user-attachments/assets/e57d903f-c858-4b56-8cde-3f11be3963f7)
 Tampilan Form Edit, Tampilan untuk mengedit dengan validasi inputan dan penyimpanan data menggunakan model.
 ![image](https://github.com/user-attachments/assets/7d04bf62-b70c-4867-beea-3c334c8447da)
+
+
+
+------------------------------------------------------------------MODUL CSS LAYOUT----------------------------------------------------------------------------
+
+
+
+![image](https://github.com/user-attachments/assets/a1a65108-6eb0-465d-8249-a6dd12a9a78d)
+
+
 
 
 
