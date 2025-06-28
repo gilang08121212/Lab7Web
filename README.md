@@ -1,5 +1,5 @@
 # Lab7Web
-------------------------------------------------------------------PRAKTIKUM 1 ---------------------------------------
+------------------------------------------------------------------PRAKTIKUM 1 ------------------------------------------------------
 
 Setelah semua latihan selesai dan dokumentasi lengkap, saya commit hasil kerja saya ke dalam repository. Ini adalah cara untuk menyimpan dan merekam semua perubahan yang saya buat di dalam repository. Untuk mendokumentasikan progres saya, setiap kali saya selesai dengan satu bagian latihan, saya mengambil screenshot sebagai bukti perubahan yang saya buat. Ini penting untuk menunjukkan bahwa setiap langkah berhasil dijalankan dengan baik.:)
 ![Image](https://github.com/user-attachments/assets/60de252d-f3e5-49c0-8687-b0b7633c4a45)
