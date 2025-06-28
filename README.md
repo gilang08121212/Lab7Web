@@ -33,11 +33,13 @@ Tampilan Form Edit, Tampilan untuk mengedit dengan validasi inputan dan penyimpa
 
 
 
-------------------------------------------------------------------MODUL CSS LAYOUT-----------------------------------------------------------------------
+----------------------------------------------------------PRAKTIKUM 3-------------------------------------------------------------------
 
 
 
-![image](https://github.com/user-attachments/assets/a1a65108-6eb0-465d-8249-a6dd12a9a78d)
+![Screenshot 2025-06-28 093436](https://github.com/user-attachments/assets/1955cca9-da5e-45a7-835a-4958f9e674ac)
+![image](https://github.com/user-attachments/assets/76879078-1cea-451f-a521-ff360a198805)
+
 
 
 
