@@ -37,7 +37,8 @@ Tampilan Form Edit, Tampilan untuk mengedit dengan validasi inputan dan penyimpa
 
 
 
-![Screenshot 2025-06-28 093436](https://github.com/user-attachments/assets/1955cca9-da5e-45a7-835a-4958f9e674ac)
+![image](https://github.com/user-attachments/assets/9d52fe3c-7917-43b8-8f12-4f907402ea20)
+
 ![image](https://github.com/user-attachments/assets/76879078-1cea-451f-a521-ff360a198805)
 
 
