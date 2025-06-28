@@ -39,6 +39,13 @@ Tampilan Form Edit, Tampilan untuk mengedit dengan validasi inputan dan penyimpa
 
 ![image](https://github.com/user-attachments/assets/9d52fe3c-7917-43b8-8f12-4f907402ea20)
 ![image](https://github.com/user-attachments/assets/76879078-1cea-451f-a521-ff360a198805)
+Apa manfaat utama dari penggunaan View Layout dalam pengembangan aplikasi? 
+Manfaat utama dari penggunaan View Layout dalam pengembangan aplikasi adalah untuk memisahkan tampilan aplikasi menjadi bagian-bagian yang dapat digunakan kembali (reusable). Dengan View Layout, kita dapat mendefinisikan struktur dasar halaman (seperti header, footer, dan sidebar) dalam satu tempat dan memuat konten yang berbeda untuk setiap halaman. Hal ini membuat pengelolaan tampilan menjadi lebih efisien dan mudah dipelihara.
+Jelaskan perbedaan antara View Cell dan View biasa.?
+
+*View biasa adalah file tampilan statis yang langsung menampilkan data yang diteruskan dari controller, dan digunakan untuk menampilkan halaman secara keseluruhan.
+*View Cell adalah komponen tampilan yang dapat dipanggil secara modular di berbagai bagian aplikasi, seperti sidebar atau widget. Ini memungkinkan pengelolaan bagian kecil tampilan yang digunakan ulang dengan lebih efisien, serta memudahkan integrasi elemen dinamis tanpa merubah keseluruhan layout
+
 
 
 
