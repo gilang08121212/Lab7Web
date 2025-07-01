@@ -47,6 +47,16 @@ Jelaskan perbedaan antara View Cell dan View biasa.?
 *View Cell adalah komponen tampilan yang dapat dipanggil secara modular di berbagai bagian aplikasi, seperti sidebar atau widget. Ini memungkinkan pengelolaan bagian kecil tampilan yang digunakan ulang dengan lebih efisien, serta memudahkan integrasi elemen dinamis tanpa merubah keseluruhan layout
 
 
+----------------------------------------------------------PRAKTIKUM 4-------------------------------------------------------------------
+
+
+![image](https://github.com/user-attachments/assets/ff58eada-9b55-48ac-98d1-bb78fdc891cc)
+![image](https://github.com/user-attachments/assets/7f48d2e2-cc69-4e7e-82da-5ebeb0471959)
+![image](https://github.com/user-attachments/assets/c95e9af6-970b-40d5-b404-d46aa639ef95)
+![image](https://github.com/user-attachments/assets/ef795a0f-392a-4892-ad2b-4ca609033f75)
+Modul Praktikum 4 dalam pemrograman web dengan menggunakan framework CodeIgniter 4 berfokus pada pembuatan sistem login. Tujuan utamanya adalah untuk memahami konsep autentikasi (Auth) dan penggunaan filter dalam aplikasi, serta membangun modul login yang memungkinkan pengguna untuk masuk ke dalam aplikasi.
+
+
 
 
 
