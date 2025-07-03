@@ -59,6 +59,21 @@ Modul Praktikum 4 dalam pemrograman web dengan menggunakan framework CodeIgniter
 
 
 ----------------------------------------------------------PRAKTIKUM 5-------------------------------------------------------------------
+Modul Praktikum 5 ini membahas tentang implementasi Pagination dan Pencarian menggunakan framework CodeIgniter 4. Tujuan praktikum ini adalah agar mahasiswa dapat memahami dan mengaplikasikan konsep dasar pagination untuk membatasi tampilan data, serta teknik pencarian untuk memfilter data berdasarkan kata kunci.
+
+Langkah-langkah yang dilakukan mencakup:
+
+Membuat pagination untuk menampilkan data dalam beberapa halaman.
+
+Menambahkan fitur pencarian untuk memfilter data berdasarkan input pengguna.
+
+Implementasi ini dilakukan melalui modifikasi Controller dan View dalam CodeIgniter 4.
+
+Mahasiswa juga diminta untuk melakukan uji coba dengan menambahkan data dan memastikan pagination dan pencarian berfungsi dengan baik.
+
+Modul ini bertujuan agar mahasiswa memahami cara mengelola dan menampilkan data dalam jumlah besar dengan cara yang efisien dan interaktif di aplikasi web.
+![image](https://github.com/user-attachments/assets/b00083c5-c71c-4bf7-880f-24eaa3f3a400)
+
 
 
 
