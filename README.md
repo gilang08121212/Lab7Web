@@ -95,8 +95,26 @@ Memodifikasi View: View diubah agar data kategori ditampilkan bersama artikel, b
 <img width="1365" height="726" alt="image" src="https://github.com/user-attachments/assets/3b4de24b-dd13-42cc-86b8-956bf7e39a1f" />
 
 ----------------------------------------------------------PRAKTIKUM 9-------------------------------------------------------------------
-
+Modul Praktikum 9 ini bertujuan untuk membantu mahasiswa memahami dan mengimplementasikan AJAX untuk pagination dan search dalam aplikasi web berbasis CodeIgniter 4. Praktikum ini bertujuan meningkatkan performa dan pengalaman pengguna (UX) aplikasi web dengan cara memperkenalkan teknik pemrograman yang lebih efisien dan interaktif.
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c1aafd74-9a7e-45a3-bcbf-1ce78c68e914" />
+
+----------------------------------------------------------PRAKTIKUM 10-------------------------------------------------------------------
+Modul ini memberikan pemahaman praktis tentang bagaimana membuat dan menguji REST API menggunakan CodeIgniter 4, serta bagaimana menghubungkan backend dengan aplikasi frontend melalui API. Praktikum ini penting untuk memperkenalkan cara kerja API dalam aplikasi web dan memberikan keterampilan untuk membangun aplikasi berbasis API yang efisien.
+<img width="1125" height="767" alt="image" src="https://github.com/user-attachments/assets/0e8e7661-54da-418f-b010-228a5fac8490" />
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/f37032ca-16e2-498e-a753-c22329e3cd05" />
+
+----------------------------------------------------------PRAKTIKUM 11-------------------------------------------------------------------
+Modul ini mengajarkan cara membuat REST API menggunakan CodeIgniter 4. Tujuannya adalah memahami konsep API dan RESTful, serta membuat API yang dapat digunakan untuk mengakses data (menambah, mengubah, menghapus) menggunakan metode HTTP (GET, POST, PUT, DELETE). Langkah-langkahnya meliputi pembuatan model, controller, routing, dan pengujian API menggunakan Postman. Tugas praktikum mencakup pengembangan API dan dokumentasi perubahan pada repository.
+<img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/9bb6b712-6fb4-4a02-a5ae-b566578ecf58" />
+<img width="1365" height="728" alt="image" src="https://github.com/user-attachments/assets/6769576f-75de-4744-9ffc-41bc87ca3569" />
+<img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/94baa1a1-e789-40e6-94b4-e3670bd3e892" />
+<img width="1365" height="726" alt="image" src="https://github.com/user-attachments/assets/edb51110-1ddd-471a-ad66-83186b965cd3" />
+
+
+
+
+
+
 
 
 
