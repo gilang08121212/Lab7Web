@@ -83,6 +83,11 @@ Memodifikasi View: View diubah agar data kategori ditampilkan bersama artikel, b
 <img width="1365" height="728" alt="image" src="https://github.com/user-attachments/assets/380377f0-e4ca-4269-8aa4-60059c0b3c64" />
 <img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/1d2453b9-6287-447b-ac08-25fa3d6f5734" />
 
+----------------------------------------------------------PRAKTIKUM 9-------------------------------------------------------------------
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c1aafd74-9a7e-45a3-bcbf-1ce78c68e914" />
+
+
 
 
 
